@@ -149,6 +149,7 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin{
     );
   }
 }
+// Card Screen Widget create
 
 Widget _CardScreen({required String tittle,required double value,required Color color}){
   return Expanded(
